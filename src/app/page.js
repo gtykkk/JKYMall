@@ -7,6 +7,7 @@ export default function Home() {
         작업 시작할 거임
         <div className="bg-white text-black">
           <p>My first commit</p>  
+          
         </div>
       </main>
       

@@ -6,8 +6,6 @@ import { menu, sign } from "@/app/_constant/menu";
 import Link from "next/link";
 
 const Header = () => {
-  const router = useRouter();
-
   return (
     <>
       <div className="flex flex-row py-3 items-center bg-gray-600 px-5">
